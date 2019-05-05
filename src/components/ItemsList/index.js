@@ -1,5 +1,5 @@
 import React from 'react';
 
-const ItemsList = () => <h1>Items Page</h1>;
+const ItemsList = (props) => <h1>Item page</h1>
 
 export default ItemsList;
