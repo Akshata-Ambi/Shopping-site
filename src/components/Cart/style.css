@@ -1,0 +1,8 @@
+.items{
+    margin:0;
+    padding:0;
+}
+
+.items li{
+    list-style: none;
+}
